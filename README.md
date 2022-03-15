@@ -1,5 +1,5 @@
 - 👋 Olá, sou @ViniciusPereirx
-- 🌱 Atualmente estou aprendendo HTML, CSCS, JAVASCRIPT, REACT, ANGULAR 9, VUE JS, BOOTSTRAP, MYSQL, MSSQL ...
+- 🌱 Atualmente estou aprendendo HTML, CSCS, JAVASCRIPT, REACT, NODEJS, ASP.NET CORE 5, C#, ANGULAR 12, VERSIONAMENTO GIT, BOOTSTRAP, MYSQL, SQL SERVER ...
 - 💞️ Procuro colaborar em Desenvolvimento WEB
 - 📫 Contato: viniciuspereiraa51@gmail.com
 
