@@ -6,7 +6,7 @@
 
 ## &nbsp;Acadêmicos
 
-- Sou formado em Técnico em Informática
+- Técnico em Informática
 - Graduando Análise e Desenvolvimento de Sistemas
 - Cursando Programador FullStack JavaScript One Bit Code
 
