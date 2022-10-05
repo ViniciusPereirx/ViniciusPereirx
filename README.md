@@ -25,9 +25,9 @@
 
 
 ## &nbsp;Github Analytics
-<p align="left"> 
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=ViniciusPereirx&show_icons=true&theme=dracula"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPereirx&layout=compact&theme=tokyonight" alt="ViniciusPereirx" most languages/>
+<p align="center"> 
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ViniciusPereirx&show_icons=true&theme=dracula"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPereirx&layout=compact&theme=tokyonight" alt="ViniciusPereirx" most languages/>
 </p>
 
 ## &nbsp;Social Links
