@@ -6,8 +6,8 @@
 ## &nbsp;Acadêmicos
 
 - Técnico em Informática
-- Graduação Completa em Análise e Desenvolvimento de Sistemas
-- Cursando Programador Full Stack JavaScript One Bit Code
+- Graduando em Análise e Desenvolvimento de Sistemas
+- Cursando Programador Full Stack JavaScript OneBitCode
 
 
 ## &nbsp;Conhecimentos
