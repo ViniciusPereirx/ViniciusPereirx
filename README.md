@@ -1,7 +1,6 @@
 <h1> Olá, eu sou Vinicius Pereira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
 
-- Desenvolvedor Front-end Jr
-- Desenvolvedor Mobile
+- Desenvolvedor FullStack Jr
 
 ## &nbsp;Acadêmicos
 
