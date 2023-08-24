@@ -24,7 +24,7 @@
 ## &nbsp;Github Analytics
 <p align="center"> 
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ViniciusPereirx&show_icons=true&theme=dracula"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPereirx&layout=compact&theme=tokyonight" alt="ViniciusPereirx" most languages/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </p>
 
 ## &nbsp;Social Links
