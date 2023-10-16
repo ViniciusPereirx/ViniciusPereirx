@@ -6,7 +6,7 @@
 
 - Técnico em Informática
 - Graduando em Análise e Desenvolvimento de Sistemas
-- Cursando Programador Full Stack JavaScript OneBitCode
+- Cursando Desenvolvedor FullStack JavaScript OneBitCode
 
 ## &nbsp;Conhecimentos
 <p align="center">
