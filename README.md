@@ -18,8 +18,8 @@
   <img align="center" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" height="65">
   <img align="center" alt="HTML5" src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" height="65">
   <img align="center" alt="HTML5" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168360.png" height="65">
-  <img align="center" alt="HTML5" src="https://banner2.cleanpng.com/20180804/ttq/bf041af08718afe10c4a524cfbf8b888.webp" height="65">
-  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="65">
+  <img align="center" alt="HTML5" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" height="65">
+  <img align="center" alt="HTML5" src="https://miro.medium.com/v2/resize:fit:1000/0*riwI1-Hp8F-COeHO.png" height="65">
 </p>
 
 ## &nbsp;Github Analytics
