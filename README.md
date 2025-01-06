@@ -11,7 +11,7 @@
 
 ## &nbsp;Conhecimentos
 <p align="center">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/dynamic/json">
+  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="50">
 </p>
 
 ## &nbsp;Github Analytics
