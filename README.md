@@ -11,7 +11,12 @@
 
 ## &nbsp;Conhecimentos
 <p align="center">
-  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="50">
+  <img align="center" alt="HTML5" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354506%2Fvagrant&psig=AOvVaw1Ex-Y6Wy6HC4anzXd7XbZg&ust=1736292677637000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjF3bOg4ooDFQAAAAAdAAAAABAI" height="70">
+  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
+  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
+  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
+  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
+  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
 </p>
 
 ## &nbsp;Github Analytics
