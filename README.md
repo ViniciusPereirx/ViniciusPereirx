@@ -11,8 +11,7 @@
 
 ## &nbsp;Conhecimentos
 <p align="center">
-  <img align="center" alt="HTML5" src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/ansible/role/d/:namespace/:name
-)">
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/dynamic/json">
 </p>
 
 ## &nbsp;Github Analytics
