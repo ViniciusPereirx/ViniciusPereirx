@@ -11,7 +11,7 @@
 
 ## &nbsp;Conhecimentos
 <p align="center">
-  <img align="center" alt="HTML5" src="https://media.licdn.com/dms/image/v2/C4D12AQHYO7V8nmJ8Vg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1585683437797?e=2147483647&v=beta&t=1xh00SqPDuyDJ_aBMnOpdeHtpgUB0-2I5Gi_gVjtMpw" height="70">
+  <img align="center" alt="HTML5" src="https://static-00.iconduck.com/assets.00/vagrant-icon-1981x2048-m89lsyi5.png" height="70">
   <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
   <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
   <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
