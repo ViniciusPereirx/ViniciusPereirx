@@ -11,12 +11,12 @@
 
 ## &nbsp;Conhecimentos
 <p align="center">
-  <img align="center" alt="HTML5" src="https://static-00.iconduck.com/assets.00/vagrant-icon-1981x2048-m89lsyi5.png" height="70">
-  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
-  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
-  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
-  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
-  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="70">
+  <img align="center" alt="HTML5" src="https://static-00.iconduck.com/assets.00/vagrant-icon-1981x2048-m89lsyi5.png" height="65">
+  <img align="center" alt="HTML5" src="https://static-00.iconduck.com/assets.00/ubuntu-plain-wordmark-icon-252x256-omyrtk38.png" height="65">
+  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="65">
+  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="65">
+  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="65">
+  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="65">
 </p>
 
 ## &nbsp;Github Analytics
