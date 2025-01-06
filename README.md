@@ -12,10 +12,13 @@
 ## &nbsp;Conhecimentos
 <p align="center">
   <img align="center" alt="HTML5" src="https://static-00.iconduck.com/assets.00/vagrant-icon-1981x2048-m89lsyi5.png" height="65">
-  <img align="center" alt="HTML5" src="https://static-00.iconduck.com/assets.00/ubuntu-plain-wordmark-icon-252x256-omyrtk38.png" height="65">
-  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="65">
-  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="65">
-  <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="65">
+  <img align="center" alt="HTML5" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" height="65">
+  <img align="center" alt="HTML5" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="65">
+  <img align="center" alt="HTML5" src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" height="65">
+  <img align="center" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" height="65">
+  <img align="center" alt="HTML5" src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" height="65">
+  <img align="center" alt="HTML5" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168360.png" height="65">
+  <img align="center" alt="HTML5" src="https://banner2.cleanpng.com/20180804/ttq/bf041af08718afe10c4a524cfbf8b888.webp" height="65">
   <img align="center" alt="HTML5" src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="65">
 </p>
 
