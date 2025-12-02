@@ -4,10 +4,10 @@
 
 ## &nbsp;Acadêmicos
 
-- Técnico em Informática
-- Graduado em Análise e Desenvolvimento de Sistemas
-- Pós Graduação em Estrutura e Gestão de Redes de Computadores
-- Cursando Begin DevOps Career As an Absolute Beginner | AWS, Linux, Scripts, Jenkins, Ansible, GitOps, Docker,Kubernetes, &ChatGPT - UDEMY
+- Técnico em Informática;
+- Graduado em Análise e Desenvolvimento de Sistemas;
+- Pós Graduação em Estrutura e Gestão de Redes de Computadores;
+- Formação DevOps Pro 2.0 | AWS, Azure, Jenkins, Docker, Kubernetes, Terraform, Ansible, GitOps, Linux, CI/CD, Infraestrutura como Código (IaC), Monitoramento (Prometheus, Grafana, ELK), DevSecOps, Serverless e Automação.
 
 ## &nbsp;Conhecimentos
 <p align="center">
